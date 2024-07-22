@@ -3,3 +3,4 @@ Git Command
 -git remote add origin url
 -git checkout branchname
 -git --cached
+-gir conflict`
