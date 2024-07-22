@@ -1,0 +1,5 @@
+Git Command
+-git remote -v
+-git remote add origin url
+-git checkout branchname
+-git --cached
