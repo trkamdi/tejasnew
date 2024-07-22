@@ -4,3 +4,4 @@ Git Command
 -git checkout branchname
 -git --cached
 -gir conflict`
+ci/cd is what.
